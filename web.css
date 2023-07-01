@@ -125,7 +125,7 @@ position: relative;
 	cursor: pointer;
 	animation: slide .5s linear 1s backwards;
 	flex:  1 1 40rem;
-	margin-left:7.8rem;}
+	margin-left:10.8rem;}
 	
 @keyframes slide{
 	0%{
@@ -605,7 +605,7 @@ header .nav-bar.active{
 		display: flex;
 		flex-flow: column;
 		margin-top:16rem;
-		margin-left:-3.5rem;}
+		margin-left:-5.5rem;}
 	.home .slide-container .imge{
 		display: flex;
 		justify-content: center;}
@@ -715,7 +715,7 @@ border:2px solid black;;
 		display: flex;
 		flex-flow: column;
 		margin-top:12rem;
-		margin-left:-9rem;}
+		margin-left:-11rem;}
 	.home .slide-container .imge{
 		display: flex;
 		justify-content: center;}
