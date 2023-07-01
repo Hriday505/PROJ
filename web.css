@@ -813,7 +813,7 @@ border:2px solid black;;
 		.featured .row .content .btn{
 		display: flex;
 			flex-wrap: wrap;
-		width:9rem;
+		width:9.8rem;
 		height:2.5rem;
 		margin: 1.8rem;
 			margin-left:-.5rem;
@@ -824,7 +824,7 @@ border:2px solid black;;
 	font-weight:bolder;
 	background: white;
 	cursor: pointer;
-		padding: .6rem 1.6rem;}
+		padding: .6rem 1.5rem;}
 
 	.featured .row .content .btn:hover{
 		color:black;
