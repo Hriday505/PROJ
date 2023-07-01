@@ -707,7 +707,7 @@ border:2px solid black;;
 	font-size: 2rem;
 		margin:3rem;
 		font-size:1.5rem;
-	margin-right:-2.4rem;
+	margin-right:-2rem;
 	color: black;}
 
 	
@@ -831,60 +831,6 @@ border:2px solid black;;
 		transform: scale(1.1);
 		background-color: #FFEF88;
 	}
-
-
-
-	@media (max-width:360px){
-		.featured .row .content{
-		flex-wrap: wrap;
-		cursor: pointer;
-	display:flex;
-	flex-flow: column;
-	margin-left:13.3rem;
-		padding-left:3.4rem;
-	margin-top:-27rem;
-	flex: 1 1 40rem;}
-	
-		.featured .row .content .btn:hover{
-		color:black;
-		transform: scale(0.7);
-		background-color: #FFEF88;
-	}
-}
-@media (max-width:1024px){
-		.featured .row .content{
-		flex-wrap: wrap;
-		cursor: pointer;
-	display:flex;
-	flex-flow: column;
-	margin-left:42.3rem;
-		padding-left:3.4rem;
-	margin-top:-27rem;
-	flex: 1 1 40rem;}
-	
-		.featured .row .content .btn{
-		display: flex;
-			flex-wrap: wrap;
-		width:18rem;
-		height:4rem;
-		margin: 1.8rem;
-			margin-left:-.5rem;
-	margin-top: 1rem;
-	border-radius: .5rem;
-	border:.2rem solid #000;
-	font-size:1.7rem;
-	font-weight:bolder;
-	background: white;
-	cursor: pointer;
-		padding: .8rem 2.9rem;}
-	
-	.featured .row .content .btn:hover{
-		color:black;
-		transform: scale(1.1);
-		background-color: #FFEF88;
-	}
-	
-}
 
 	
 }
