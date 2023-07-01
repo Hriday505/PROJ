@@ -125,7 +125,7 @@ position: relative;
 	cursor: pointer;
 	animation: slide .5s linear 1s backwards;
 	flex:  1 1 40rem;
-	margin-left: 10.8rem;}
+	margin-left:7.8rem;}
 	
 @keyframes slide{
 	0%{
