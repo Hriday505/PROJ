@@ -790,9 +790,9 @@ border:2px solid black;;
 		cursor: pointer;
 	display:flex;
 	flex-flow: column;
-	margin-left:14rem;
+	margin-left:12rem;
 		padding-left:3.4rem;
-	margin-top:-27rem;
+	margin-top:-30rem;
 	flex: 1 1 40rem;}
 	.featured .row .content h3{
 	font-size:0.6rem;
