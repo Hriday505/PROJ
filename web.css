@@ -521,9 +521,9 @@ transform: scale(1.2);
 .featured .row .content{
 	display:flex;
 	flex-flow: column;
-	margin-left:37.1rem;
+	margin-left:36.8rem;
 	padding-right:6rem;
-	margin-top: -25rem;
+	margin-top: -29rem;
 	flex: 1 1 40rem;}
 	
 .featured .row .content h3{
